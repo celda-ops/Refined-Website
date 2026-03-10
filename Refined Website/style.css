@@ -4,6 +4,7 @@ html{
 
 
 body{
+    display: block;
     text-align: center;
     text-decoration: none;
 }
@@ -73,7 +74,7 @@ h1{
 }
 
 .links{
-    
+    display: block;
 }
 
 .header, .me, .aside, .rank, #joke{
